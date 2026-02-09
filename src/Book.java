@@ -10,6 +10,7 @@ public class Book {
     public Book(String title, String author, int year) {
         this.title = title;
         this.author = author;
+        this.year = year;
     }
 
     // TODO: Implement copy constructor
